@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISeeYou", "ISeeYou\ISeeYou.csproj", "{04861C73-79D0-4D6C-AFA2-5CE0087564CB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ISeeYou Setup", "ISeeYou Setup\ISeeYou Setup.vdproj", "{BD4ECEF0-D151-4D2B-A54B-AD4BE5F49F60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04861C73-79D0-4D6C-AFA2-5CE0087564CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04861C73-79D0-4D6C-AFA2-5CE0087564CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04861C73-79D0-4D6C-AFA2-5CE0087564CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04861C73-79D0-4D6C-AFA2-5CE0087564CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4ECEF0-D151-4D2B-A54B-AD4BE5F49F60}.Debug|Any CPU.ActiveCfg = Debug
+		{BD4ECEF0-D151-4D2B-A54B-AD4BE5F49F60}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB92C2BA-A1E1-4F70-90A2-8C0F1235E57E}
+	EndGlobalSection
+EndGlobal
